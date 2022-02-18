@@ -1,0 +1,6 @@
+[submodule "user-service"]
+	path = user-service
+	url = ../user-service
+[submodule "api-gateway"]
+	path = api-gateway
+	url = ../api-gateway
